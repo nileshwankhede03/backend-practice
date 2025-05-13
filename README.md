@@ -57,3 +57,5 @@ setting up public static files :
     req.params means jise aage colon hai ( : )
     and tyacha puch access karayla  req.params.Tejasvini
 
+    jrr frontend la routes change kele trr value change honar means te dynamic aahe
+
